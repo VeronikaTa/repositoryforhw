@@ -1,0 +1,19 @@
+{
+"users": [
+{"id":1,
+"userName": "Hanna",
+"email": "ann.glazyrina3@gmail.com",
+"country": "Ukraine"
+},
+{ "id": 2,
+"userName": "Veronika",
+"email": "nika.tarasova.98@gmail.com",
+"country": "Ukraine"
+},
+{"id": 3,
+"userName": "Lisa",
+"email": "lisa@resume.io",
+"country": "the_USA"
+}
+]
+}
